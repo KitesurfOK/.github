@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://kitesurfok.com">
-    <img src="https://kitesurfok.com/_next/image?url=%2Fimages%2Fmax-profile.jpg&w=128&q=75" alt="Max, founder of KitesurfOK" style="border-radius: 50%;">
+    <!-- Added KitesurfOK Logo -->
+    <img src="https://kitesurfok.com/favicon.ico" alt="KitesurfOK Logo">
   </a>
 </p>
 
@@ -8,6 +9,14 @@
 
 <p align="center">
   The official GitHub home for <a href="https://kitesurfok.com"><strong>KitesurfOK.com</strong></a> – the #1 destination connecting passionate kitesurfers with their dream jobs.
+</p>
+
+<p align="center">
+  <a href="https://kitesurfok.com">
+    <img src="https://kitesurfok.com/_next/image?url=%2Fimages%2Fmax-profile.jpg&w=128&q=75" alt="Max, founder of KitesurfOK" style="border-radius: 50%;" width="100">
+    <br/>
+    <em>Max, Founder of KitesurfOK</em>
+  </a>
 </p>
 
 ---
